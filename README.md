@@ -24,6 +24,8 @@
 - [ ] Kubernetes the Hard-Way
 - [ ] The Phoenix Project
 
+---
+
 ### :man_technologist: About Me :
 I am a DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
 
@@ -33,38 +35,54 @@ I am a DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 - :mailbox: How to reach me: [![Telegram Badge](https://img.shields.io/badge/Daniel-blue?style=flat&logo=telegram&logoColor=white)](https://t.me/Safin_Daniel)
 - <img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" width="18px"/> I use arch btw.
 
+---
+
 ### :hammer_and_wrench: Technologies :
-## Now:
+#### Now:
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="archlinux" alt="archlinux" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="terraform" **alt="terraform" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/tree/master/icons/docker/docker-original.svg" title="docker" **alt="docker" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/tree/master/icons/postman/postman-original.svg" title="postman" **alt="postman" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/tree/master/icons/postgresql/postgresql-original.svg" title="postgresql" **alt="postgresql" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="kubernetes" **alt="kubernetes" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" title="ansible" **alt="ansible" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/argocd/argocd-original.svg" title="argocd" **alt="argocd" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/tree/master/icons/nginx/nginx-original.svg" title="nginx" **alt="nginx" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/tree/master/icons/logstash/logstash-original.svg" title="logstash" **alt="logstash" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/tree/master/icons/linux/linux-original.svg" title="linux" **alt="linux" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/tree/master/icons/grafana/grafana-original.svg" title="grafana" **alt="grafana" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/tree/master/icons/go/go-original.svg" title="go" **alt="go" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/tree/master/icons/prometheus/prometheus-original.svg" title="prometheus" **alt="prometheus" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/tree/master/icons/rabbitmq/rabbitmq-original.svg" title="rabbitmq" **alt="rabbitmq" width="40" height="40"/>
+  <img src="./src/archlinux-original.svg" title="archlinux" alt="archlinux" width="40" height="40"/>&nbsp;
+  <img src="./src/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="./src/terraform-original.svg" title="terraform" **alt="terraform" width="40" height="40"/>
+  <img src="./src/docker-original.svg" title="docker" **alt="docker" width="40" height="40"/>
+  <img src="./src/postman-original.svg" title="postman" **alt="postman" width="40" height="40"/>
+  <img src="./src/postgresql-original.svg" title="postgresql" **alt="postgresql" width="40" height="40"/>
+  <img src="./src/kubernetes-original.svg" title="kubernetes" **alt="kubernetes" width="40" height="40"/>
+  <img src="./src/ansible-original.svg" title="ansible" **alt="ansible" width="40" height="40"/>
+  <img src="./src/argocd-original.svg" title="argocd" **alt="argocd" width="40" height="40"/>
+  <img src="./src/nginx-original.svg" title="nginx" **alt="nginx" width="40" height="40"/>
+  <img src="./src/grafana-original.svg" title="grafana" **alt="grafana" width="40" height="40"/>
+  <img src="./src/go-original.svg" title="go" **alt="go" width="40" height="40"/>
+  <img src="./src/prometheus-original.svg" title="prometheus" **alt="prometheus" width="40" height="40"/>
+  <img src="./src/python-original.svg" title="python" **alt="python" width="40" height="40"/>
 </div>
 
-## In progress
+#### In progress
 <div>
-  <img src="https://github.com/devicons/devicon/tree/master/icons/openstack/openstack-original.svg" title="openstack" **alt="openstack" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/networkx/networkx-original.svg" title="networkx" **alt="networkx" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/tree/master/icons/jenkins/jenkins-original.svg" title="jenkins" **alt="jenkins" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/tree/master/icons/python/python-original.svg" title="python" **alt="python" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/tree/master/icons/rancher/rancher-original.svg" title="rancher" **alt="rancher" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/tree/master/icons/redis/redis-original.svg" title="redis" **alt="redis" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/tree/master/icons/slack/slack-original.svg" title="slack" **alt="slack" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/tree/master/icons/sonarqube/sonarqube-original.svg" title="sonarqube" **alt="sonarqube" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/tree/master/icons/traefikproxy/traefikproxy-original.svg" title="traefikproxy" **alt="traefikproxy" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/tree/master/icons/vagrant/vagrant-original.svg" title="vagrant" **alt="vagrant" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/tree/master/icons/vault/vault-original.svg" title="vault" **alt="vault" width="40" height="40"/>
+  <img src="./src/helm-original.svg" title="helm" **alt="helm" width="40" height="40"/>
+  <img src="./src/azuredevops-original.svg" title="azuredevops" **alt="azuredevops" width="40" height="40"/>
+  <img src="./src/apachekafka-original.svg" title="apachekafka" **alt="apachekafka" width="40" height="40"/>
+  <img src="./src/rabbitmq-original.svg" title="rabbitmq" **alt="rabbitmq" width="40" height="40"/>
+  <img src="./src/openstack-original.svg" title="openstack" **alt="openstack" width="40" height="40"/>
+  <img src="./src/networkx-original.svg" title="networkx" **alt="networkx" width="40" height="40"/>
+  <img src="./src/jenkins-original.svg" title="jenkins" **alt="jenkins" width="40" height="40"/>
+  <img src="./src/rancher-original.svg" title="rancher" **alt="rancher" width="40" height="40"/>
+  <img src="./src/redis-original.svg" title="redis" **alt="redis" width="40" height="40"/>
+  <img src="./src/slack-original.svg" title="slack" **alt="slack" width="40" height="40"/>
+  <img src="./src/sonarqube-original.svg" title="sonarqube" **alt="sonarqube" width="40" height="40"/>
+  <img src="./src/traefikproxy-original.svg" title="traefikproxy" **alt="traefikproxy" width="40" height="40"/>
+  <img src="./src/vagrant-original.svg" title="vagrant" **alt="vagrant" width="40" height="40"/>
+  <img src="./src/vault-original.svg" title="vault" **alt="vault" width="40" height="40"/>
 </div>
+
+<!-- 
+for i in []:
+    tech = i.split("/")[-1]
+    print(f"<img src=\"{i}/{tech}-original.svg\" title=\"{tech}\" **alt=\"{tech}\" width=\"40\" height=\"40\"/>")
+ -->
+
+---
+### :fire: My Stats :
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=saksons&theme=tokyonight&short_numbers=true)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saksons&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
