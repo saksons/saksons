@@ -20,7 +20,7 @@
 ### :white_check_mark: ToDo :
 
 - [ ] Own terraform provider
-- [ ] Mono-Repo for all DevOps technologies
+- [ ] Mono-Repo with DevOps technologies
 - [ ] Kubernetes the Hard-Way
 - [ ] The Phoenix Project
 
@@ -34,11 +34,42 @@ I am a DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 - <img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" width="18px"/> I use arch btw.
 
 ### :hammer_and_wrench: Technologies :
-
+## Now:
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="archlinux" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/tree/master/icons/docker/docker-original.svg" title="docker" **alt="docker" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/tree/master/icons/postman/postman-original.svg" title="postman" **alt="postman" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/tree/master/icons/postgresql/postgresql-original.svg" title="postgresql" **alt="postgresql" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-original.svg" title="kubernetes" **alt="kubernetes" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg" title="ansible" **alt="ansible" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/argocd/argocd-original.svg" title="argocd" **alt="argocd" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/tree/master/icons/nginx/nginx-original.svg" title="nginx" **alt="nginx" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/tree/master/icons/logstash/logstash-original.svg" title="logstash" **alt="logstash" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/tree/master/icons/linux/linux-original.svg" title="linux" **alt="linux" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/tree/master/icons/grafana/grafana-original.svg" title="grafana" **alt="grafana" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/tree/master/icons/go/go-original.svg" title="go" **alt="go" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/tree/master/icons/prometheus/prometheus-original.svg" title="prometheus" **alt="prometheus" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/tree/master/icons/rabbitmq/rabbitmq-original.svg" title="rabbitmq" **alt="rabbitmq" width="40" height="40"/>
 </div>
+
+## In progress
+<div>
+  <img src="https://github.com/devicons/devicon/tree/master/icons/openstack/openstack-original.svg" title="openstack" **alt="openstack" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/networkx/networkx-original.svg" title="networkx" **alt="networkx" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/tree/master/icons/jenkins/jenkins-original.svg" title="jenkins" **alt="jenkins" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/tree/master/icons/python/python-original.svg" title="python" **alt="python" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/tree/master/icons/rancher/rancher-original.svg" title="rancher" **alt="rancher" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/tree/master/icons/redis/redis-original.svg" title="redis" **alt="redis" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/tree/master/icons/slack/slack-original.svg" title="slack" **alt="slack" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/tree/master/icons/sonarqube/sonarqube-original.svg" title="sonarqube" **alt="sonarqube" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/tree/master/icons/traefikproxy/traefikproxy-original.svg" title="traefikproxy" **alt="traefikproxy" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/tree/master/icons/vagrant/vagrant-original.svg" title="vagrant" **alt="vagrant" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/tree/master/icons/vault/vault-original.svg" title="vault" **alt="vault" width="40" height="40"/>
+  
+</div>
+
 
 
 <!--
