@@ -12,8 +12,8 @@
   </a>
   </div>
   <h1>
-  Hello World!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  echo "Hello World!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>" > /etc/greeting
   </h1>
 </div>
 
@@ -34,11 +34,11 @@ I am a DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 - <img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" width="18px"/> I use arch btw.
 
 ### :hammer_and_wrench: Technologies :
-#### Now:
+## Now:
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="archlinux" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="archlinux" alt="archlinux" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg" title="terraform" **alt="terraform" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/tree/master/icons/docker/docker-original.svg" title="docker" **alt="docker" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/tree/master/icons/postman/postman-original.svg" title="postman" **alt="postman" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/tree/master/icons/postgresql/postgresql-original.svg" title="postgresql" **alt="postgresql" width="40" height="40"/>
@@ -54,7 +54,7 @@ I am a DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
   <img src="https://github.com/devicons/devicon/tree/master/icons/rabbitmq/rabbitmq-original.svg" title="rabbitmq" **alt="rabbitmq" width="40" height="40"/>
 </div>
 
-#### In progress
+## In progress
 <div>
   <img src="https://github.com/devicons/devicon/tree/master/icons/openstack/openstack-original.svg" title="openstack" **alt="openstack" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/networkx/networkx-original.svg" title="networkx" **alt="networkx" width="40" height="40"/>
@@ -67,22 +67,4 @@ I am a DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
   <img src="https://github.com/devicons/devicon/tree/master/icons/traefikproxy/traefikproxy-original.svg" title="traefikproxy" **alt="traefikproxy" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/tree/master/icons/vagrant/vagrant-original.svg" title="vagrant" **alt="vagrant" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/tree/master/icons/vault/vault-original.svg" title="vault" **alt="vault" width="40" height="40"/>
-  
 </div>
-
-
-
-<!--
-**saksons/saksons** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
