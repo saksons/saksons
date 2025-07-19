@@ -34,7 +34,7 @@ I am a DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
 - <img src="https://cdn0.iconfinder.com/data/icons/flat-round-system/512/archlinux-512.png" width="18px"/> I use arch btw.
 
 ### :hammer_and_wrench: Technologies :
-## Now:
+#### Now:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/archlinux/archlinux-original.svg" title="archlinux" alt="Java" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
@@ -54,7 +54,7 @@ I am a DevOps Engineer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtB
   <img src="https://github.com/devicons/devicon/tree/master/icons/rabbitmq/rabbitmq-original.svg" title="rabbitmq" **alt="rabbitmq" width="40" height="40"/>
 </div>
 
-## In progress
+#### In progress
 <div>
   <img src="https://github.com/devicons/devicon/tree/master/icons/openstack/openstack-original.svg" title="openstack" **alt="openstack" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/networkx/networkx-original.svg" title="networkx" **alt="networkx" width="40" height="40"/>
